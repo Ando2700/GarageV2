@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Garage/src/java/dao/SexeDao.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Garage/src/java/controller/CandidatController.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Garage/src/java/service/SexeService.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Garage/src/java/modele/Sexe.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Garage/src/java/service/CandidatService.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Garage/src/java/test/Main.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Garage/src/java/dao/Connect.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Garage/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Garage/src/java/service/TypeNiveauService.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Garage/web/index.html</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Garage/src/java/modele/Candidat.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Garage/src/java/dao/TypeNiveauDao.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Garage/src/java/dao/CandidatDao.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Garage/src/java/modele/TypeNiveau.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Garage/web/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>
